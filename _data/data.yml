@@ -146,7 +146,7 @@ certificates:
       details: |
 
     - name: Online Summer School on Combinatorial Design and Data Sciences
-      authority: Mathematics ITB Summer School 2020
+      authority: Mathematics ITB Summer School 
       time: 2020
       link: 
       details: |
@@ -158,7 +158,7 @@ certificates:
       details: |
 
     - name: South East Asian Mathematical Society School (SEAMS School) Coding and Graphs
-      authority: Mathematics Department, Universitas Hasanuddin
+      authority: Universitas Hasanuddin
       time: 2020
       link: 
       details: |
@@ -166,16 +166,15 @@ publications:
   display: true
   title: Publications
   intro: |
-    This is all the books I wrote.
   items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: [Conference Paper] Compression-Encryption Model for Digital Images Based in Generative Adversarial Network and Logistic Map
+      authors: Mulkiah, Suprapto, and A.K. Sari.   
+      conference: 22nd The International Seminar on Intelligent Technology and Its Applications (ISITIA) (2021).
+      link: https://ieeexplore.ieee.org/document/9502225
+    - title: [Books Chapter] The Role of Science in Sustainable Development Goals (SDGs). 
+      authors: Mulkiah Yasir
+      conference: Publisher : IAM Publishing. ISBN 978-623-6892-31-2
+      link: 
 
 patents:
   display: false
