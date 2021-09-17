@@ -1,22 +1,22 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Mulkiah Yasir
+  title: AI Coach
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: mulkiahyasir@gmail.com
+  phone: +62-853-9749-9294
   wechat:
-  whatsapp:
-  telegram:
+  whatsapp: +62-853-9749-9294
+  telegram: +62-853-9749-9294
   website: example.com
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: github.com/mulkiah
   gitlab:
   bitbucket:
   twitter: twitter
@@ -156,7 +156,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,7 +166,7 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Indonesia
       level: Native
     - idiom: English
       level: Professional
@@ -177,11 +177,13 @@ interests:
   items:
     - item: Reading
       link:
-    - item: Cooking
+    - item: Coaching
       link:
+    - item: Travelling
+      link:    
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
