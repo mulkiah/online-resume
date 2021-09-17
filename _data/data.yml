@@ -167,13 +167,13 @@ publications:
   title: Publications
   intro: |
   items:
-    - title: [Conference Paper] Compression-Encryption Model for Digital Images Based in Generative Adversarial Network and Logistic Map
+    - title: Conference Paper - Compression-Encryption Model for Digital Images Based in Generative Adversarial Network and Logistic Map
       authors: Mulkiah, Suprapto, and A.K. Sari.   
       conference: 22nd The International Seminar on Intelligent Technology and Its Applications (ISITIA) (2021).
       link: https://ieeexplore.ieee.org/document/9502225
-    - title: [Books Chapter] The Role of Science in Sustainable Development Goals (SDGs). 
+    - title: Books Chapter - The Role of Science in Sustainable Development Goals (SDGs). 
       authors: Mulkiah Yasir
-      conference: Publisher : IAM Publishing. ISBN 978-623-6892-31-2
+      conference: IAM Publishing. ISBN 978-623-6892-31-2
       link: 
 
 patents:
