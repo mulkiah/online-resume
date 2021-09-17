@@ -94,12 +94,7 @@ skills:
   display: true
   title: Skills
   details: |
-    #Here is my skills:
-    #+ Data Manager
-    #+ Copy Writing
-    #+ Machine Learning
-    #+ Programming
-    
+
   levels:
     - name: Data Manager
       level: 95
@@ -138,16 +133,34 @@ certificates:
   display: true
   title: Certificates
   items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
+    - name: Online Deep Learning and Acceleration with OpenACC on NVIDIA GPUs
+      authority: Höchstleistungsrechnenzentrum Stuttgart (HLRS)
+      time: 2021
       link:
       details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
+        
+    - name: Training for Trainers "Capacity Building on Interdisciplinary Cybersecurity Training
+      authority: CfDS Universitas Gadjah Mada in collaboration with Data Research Center University of Groningen Netherland
+      time: 2021
+      link: 
+      details: |
+
+    - name: Online Summer School on Combinatorial Design and Data Sciences
+      authority: Mathematics ITB Summer School 2020
       time: 2020
-      link: https://www.google.com
+      link: 
+      details: |
+
+    - name: Machine Learning Summer School Indonesia (MLSS Indo)
+      authority: MLSS series and Telkom University
+      time: 2020
+      link: http://mlss.cc/
+      details: |
+
+    - name: South East Asian Mathematical Society School (SEAMS School) Coding and Graphs
+      authority: Mathematics Department, Universitas Hasanuddin
+      time: 2020
+      link: 
       details: |
 publications:
   display: true
