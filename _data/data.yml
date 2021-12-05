@@ -181,7 +181,7 @@ publications:
       authors: Mawardi Bahri, Mulkiah, Nur Erawati, and Ryuichi Ashino
       conference: INFORMATION (JAPAN), Volume 19, Number 6(A), pp 1657-1666 (2016)
       link:
-
+      
 patents:
   display: false
   title: Patents
@@ -209,13 +209,20 @@ interests:
       link:    
 
 evaluation:
-  display: false
-  title: Self-evaluation
+  display: true
+  title: Talks and Jury
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-    ...
+    Here is my activities as presenter and being jury.
+    + June 20th to September 12th 2021, Mentor of Special Abroad Camp held by MITI-KM x Al Hadid Foundation (AHF) 
+    + June 8th 2021, Pengisi Podcast Pintar Ala Scholars Jawa Barat. Scholars for Jawa barat.
+      Link : instagram : https://www.instagram.com/tv/CP2IrLKJi55/ 
+    + May 30th 2021, Pemateri Pelatihan "Pejuang Esai Beasiswa Bersama Scholars JABAR". Scholars for Jawa Barat. 
+    + February 26th, 2021, Guru Tamu Virtual SD IT Al Biruni Mandiri Kelas 4,5,6 Create Your Creativities During The Pandemic", SD IT Al Biruni Mandiri 
+    + February 16th 2021, Pembicara LADAKSI (Latihan Dasar Kepemimpinan KSI), Kelompok Studi Ilmiah (KSI) Fakultas Pertanian Universitas Sebelas Maret (FP UNS)
+    + December 19th 2020, Pemateri Bedah Buku Homo Deus, ODOJ MITI MJR-SJS 
+    + October 15th 2020 Pemateri Kelas Kajian & Riset untuk Mitra Bina Wilayah Jawa Tengah & DI. Yogyakarta - MITI KM 
+    
+    
 footer:
   display: true
 
