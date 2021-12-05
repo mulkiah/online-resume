@@ -81,13 +81,13 @@ projects:
     This is all the projects I'm involved in.
   items:
     - name: e-health form
-      link: https://www.google.com
+      link: https://nariyah.pcinu.de/-/preview/dNe71yjaMJKVTfbm4VGN1SsJeKTM0ke
       details: |
         Our teams developed electronic health record system for Cardiovascular Department, Hasan Sadikin Hospital Bandung, Indonesia, with DevOps Cycle..
     - name: My Portfolio
       link: https://github.com/mulkiah/Projects
       details: |
-        This repo containt my project as student/teacher/or participant in courses.
+        This repo contain my project as student/teacher/or participant in courses.
 skills:
   display: true
   title: Skills
