@@ -33,6 +33,18 @@ experiences:
   display: true
   title: Experiences
   items:
+      - role: Machine Learning Engineer
+      time: 2022.01 - Now
+      company: Nomura Research Institute Indonesia
+      tag: Full Time - Contract
+      location: Jakarta
+      details: |
+        Experience in this company:
+        + Translate and refine business goals into appropriate machine learning objectives.
+        + Design and implement ML/DL solutions and integrate them with various Big Data platforms and architectures.
+        + Create and maintain ML pipelines that are scalable, robust, and ready for production.
+        + Collaborate with domain experts, software developers, and data scientists.
+        + Troubleshoot ML/DL model issues, including recommendations for retrain, re-validate, and improvements/optimizat
     - role: AI Coach
       time: 2021.07 - 2022.01
       company: Orbit Future Academy
