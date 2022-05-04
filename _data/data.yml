@@ -33,7 +33,7 @@ experiences:
   display: true
   title: Experiences
   items:
-      - role: Machine Learning Engineer
+    - role: Machine Learning Engineer
       time: 2022.01 - Now
       company: Nomura Research Institute Indonesia
       tag: Full Time - Contract
