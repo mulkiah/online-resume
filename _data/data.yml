@@ -44,8 +44,8 @@ experiences:
         + Design and implement ML/DL solutions and integrate them with various Big Data platforms and architectures.
         + Create and maintain ML pipelines that are scalable, robust, and ready for production.
         + Collaborate with domain experts, software developers, and data scientists.
-        + Troubleshoot ML/DL model issues, including recommendations for retrain, re-validate, and improvements/optimizat
-    - role: AI Coach
+        + Troubleshoot ML/DL model issues, including recommendations for retrain, re-validate, and improvements/optimization.
+    - role: AI Coach 
       time: 2021.07 - 2022.01
       company: Orbit Future Academy
       tag: Full Time - Contract
@@ -100,18 +100,6 @@ projects:
       link: https://github.com/mulkiah/Projects
       details: |
         This repo contain my project as student/teacher/or participant in courses.
-skills:
-  display: true
-  title: Skills
-  details: |
-
-  levels:
-    - name: Data Manager
-      level: 95
-    - name: Machine Learning
-      level: 90
-    - name: Programming 
-      level: 90
 
 education:
   display: true
@@ -141,7 +129,7 @@ education:
         + Hypercomplex Number
 certificates:
   display: true
-  title: Certificates
+  title: Certificates (Check my credly (https://www.credly.com/users/mulkiah-yasir/badges) for see my industrial certification
   items:
     - name: Online Deep Learning and Acceleration with OpenACC on NVIDIA GPUs
       authority: Höchstleistungsrechnenzentrum Stuttgart (HLRS)
@@ -208,6 +196,8 @@ languages:
       level: Native
     - idiom: English
       level: Professional
+    - idiom: Deutsch
+      level: Basic
 
 interests:
   display: true
@@ -235,6 +225,8 @@ evaluation:
     + February 16th 2021, Pembicara LADAKSI (Latihan Dasar Kepemimpinan KSI), Kelompok Studi Ilmiah (KSI) Fakultas Pertanian Universitas Sebelas Maret (FP UNS)
     + December 19th 2020, Pemateri Bedah Buku Homo Deus, ODOJ MITI MJR-SJS 
     + October 15th 2020 Pemateri Kelas Kajian & Riset untuk Mitra Bina Wilayah Jawa Tengah & DI. Yogyakarta - MITI KM 
+    
+
     
     
 footer:
