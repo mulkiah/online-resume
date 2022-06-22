@@ -1,19 +1,19 @@
 basic:
   name: Mulkiah Yasir
-  title: AI Coach
+  title: Computer Scientist
   avatar:
     display: true
     path: IMG20210213111600.jpg
 
 contact:
-  email: mulkiahyasir@gmail.com
-  phone: +62-853-9749-9294
+  #email: mulkiahyasir@gmail.com
+  #phone: +62-853-9749-9294
   #wechat:
-  whatsapp: 6285397499294
-  telegram: mulkiah
+  #whatsapp: 6285397499294
+  #telegram: mulkiah
   #website: example.com
   #medium:
-  #linkedin:
+  #linkedin: mulkiah
   googlescholar: SjuPCkoAAAAJ&hl=id
   researchgate: Mulkiah-Yasir
   github: mulkiah
