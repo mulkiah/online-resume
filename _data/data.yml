@@ -129,7 +129,7 @@ education:
         + Hypercomplex Number
 certificates:
   display: true
-  title: Certificates 
+  title: Training
   items:
     - name: Online Deep Learning and Acceleration with OpenACC on NVIDIA GPUs
       authority: Höchstleistungsrechnenzentrum Stuttgart (HLRS)
@@ -183,11 +183,14 @@ publications:
       link:
       
 patents:
-  display: false
+  display: true
   title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
+  details: Licences and Certificates
+    #This is all my patents.
+    + 2022\. Microsoft Certified - Azure AI Engineer Associate. [Link](https://www.credly.com/badges/383dbbe4-bfa0-48fb-92ab-1caf93560799/)
+    + 2022\. PCAP – Certified Associate in Python Programming. [Link](https://www.credly.com/badges/638b3265-c5e7-405c-8d52-21e295a79569)
+    + 2022\. AWS Certified Cloud Practitioner. [Link](https://www.credly.com/badges/af4e2796-b90e-4730-a594-33b8e50808d5/)
+    + 2021\. MCE - Microsoft Certified Educator. [Link](https://www.credly.com/badges/10a20b0d-68ab-4fe6-99fc-b02f44c032d3)
 languages:
   display: true
   title: Languages
